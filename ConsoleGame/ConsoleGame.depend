@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497247365 source:c:\users\simon.manske\documents\programming\consolegame\main.cpp
+	<iostream>
+	<windows.h>
+
